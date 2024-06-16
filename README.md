@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**muzucode/muzucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Interests:
 
-Here are some ideas to get you started:
+- Web development
+- Software design & architecture
+- Systems programming
+- Malware design, analysis, and mitigation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Frameworks I like:
+
+- TypeScript
+- Bun
+- React
+- Drupal
+- C
+- Python
+
+### What I'm trying to learn:
+
+- Systems programming
+- C Language and the C/C++ ecosystem
+- Concurrency, namely in Golang
+- Malware analysis, design, mitigation, and reverse engineering
