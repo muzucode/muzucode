@@ -1,12 +1,3 @@
-## Hi there 👋
-
-### My Interests:
-
-- Web development
-- Software design & architecture
-- Systems programming
-- Malware design, analysis, and mitigation
-
 ### Languages & Frameworks I like:
 
 - TypeScript
