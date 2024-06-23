@@ -1,11 +1,9 @@
-### Languages & Frameworks I like:
+### What I'm Reading...
 
-- TypeScript
-- Bun
-- React
-- Drupal
-- C
-- Python
+- [The GNU C Library (glibc) manual](https://sourceware.org/glibc/manual/latest/html_mono/libc.html)
+- [Computer & Internet Security: A Hands-on Approach](https://www.amazon.com/Computer-Internet-Security-Hands-Approach/dp/1733003932)
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://a.co/d/03npFpQE)
+
 
 ### What I'm trying to learn:
 
