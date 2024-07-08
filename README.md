@@ -1,6 +1,5 @@
 ### What I'm reading...
 
-- [AWS Solutions Architect Professional Certification Materials](https://github.com/muzucode/aws-certification-studyguide?tab=readme-ov-file)
 - [Intro to Embedded Systems Design w/ MSP430FR2355](https://www.youtube.com/playlist?list=PL643xA3Ie_EuHoNV7AgvJXq-z1hrE8vsm)
 - [The GNU C Library (glibc) manual](https://sourceware.org/glibc/manual/latest/html_mono/libc.html)
 - [Computer & Internet Security: A Hands-on Approach](https://www.amazon.com/Computer-Internet-Security-Hands-Approach/dp/1733003932)
